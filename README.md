@@ -13,7 +13,7 @@ Este proyecto explora los patrones de viaje y el impacto de las condiciones clim
 ## Dataset
 
 Los datos utilizados en este análisis incluyen información detallada de los viajes en taxi de Chicago, así como las condiciones meteorológicas. Puedes descargar el dataset desde el siguiente enlace:
-[Dataset de viajes en taxi de Chicago](ENLACE_DE_GOOGLE_DRIVE)
+[Dataset de viajes en taxi de Chicago](https://drive.google.com/drive/folders/1JDKA2hx2wBGkkCsMQDB7AoofKBytFmUC?usp=sharing)
 
 ## Estructura del proyecto
 
